@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\userr\\OneDrive\\Masaüstü\\UlasimRotaPlanlamaSistemi\\UlasimRotaPlanlamaSistemi.UI\\UlasimRotaPlanlamaSistemi.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\userr\\OneDrive\\Masaüstü\\UlasimRotaPlanlamaSistemi\\UlasimRotaPlanlamaSistemi.Core\\UlasimRotaPlanlamaSistemi.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\userr\\OneDrive\\Masaüstü\\UlasimRotaPlanlamaSistemi\\UlasimRotaPlanlamaSistemi.Core\\UlasimRotaPlanlamaSistemi.Core.csproj",
+        "projectName": "UlasimRotaPlanlamaSistemi.Core",
+        "projectPath": "C:\\Users\\userr\\OneDrive\\Masaüstü\\UlasimRotaPlanlamaSistemi\\UlasimRotaPlanlamaSistemi.Core\\UlasimRotaPlanlamaSistemi.Core.csproj",
+        "packagesPath": "C:\\Users\\userr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\userr\\OneDrive\\Masaüstü\\UlasimRotaPlanlamaSistemi\\UlasimRotaPlanlamaSistemi.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\userr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\userr\\OneDrive\\Masaüstü\\UlasimRotaPlanlamaSistemi\\UlasimRotaPlanlamaSistemi.UI\\UlasimRotaPlanlamaSistemi.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\userr\\OneDrive\\Masaüstü\\UlasimRotaPlanlamaSistemi\\UlasimRotaPlanlamaSistemi.UI\\UlasimRotaPlanlamaSistemi.UI.csproj",
+        "projectName": "UlasimRotaPlanlamaSistemi.UI",
+        "projectPath": "C:\\Users\\userr\\OneDrive\\Masaüstü\\UlasimRotaPlanlamaSistemi\\UlasimRotaPlanlamaSistemi.UI\\UlasimRotaPlanlamaSistemi.UI.csproj",
+        "packagesPath": "C:\\Users\\userr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\userr\\OneDrive\\Masaüstü\\UlasimRotaPlanlamaSistemi\\UlasimRotaPlanlamaSistemi.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\userr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\userr\\OneDrive\\Masaüstü\\UlasimRotaPlanlamaSistemi\\UlasimRotaPlanlamaSistemi.Core\\UlasimRotaPlanlamaSistemi.Core.csproj": {
+                "projectPath": "C:\\Users\\userr\\OneDrive\\Masaüstü\\UlasimRotaPlanlamaSistemi\\UlasimRotaPlanlamaSistemi.Core\\UlasimRotaPlanlamaSistemi.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

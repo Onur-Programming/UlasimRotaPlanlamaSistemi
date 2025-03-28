@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UlasimRotaPlanlamaSistemi.Core", "UlasimRotaPlanlamaSistemi.Core\UlasimRotaPlanlamaSistemi.Core.csproj", "{97D614C5-D7C6-4B86-8784-589990E307B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UlasimRotaPlanlamaSistemi.UI", "UlasimRotaPlanlamaSistemi.UI\UlasimRotaPlanlamaSistemi.UI.csproj", "{0AE63708-3CD4-4502-AFFF-445752953276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D614C5-D7C6-4B86-8784-589990E307B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D614C5-D7C6-4B86-8784-589990E307B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D614C5-D7C6-4B86-8784-589990E307B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D614C5-D7C6-4B86-8784-589990E307B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE63708-3CD4-4502-AFFF-445752953276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE63708-3CD4-4502-AFFF-445752953276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE63708-3CD4-4502-AFFF-445752953276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE63708-3CD4-4502-AFFF-445752953276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\userr\OneDrive\Masaüstü\UlasimRotaPlanlamaSistemi\UlasimRotaPlanlamaSistemi.Core\bin\Debug\net8.0\UlasimRotaPlanlamaSistemi.Core.deps.json
+C:\Users\userr\OneDrive\Masaüstü\UlasimRotaPlanlamaSistemi\UlasimRotaPlanlamaSistemi.Core\bin\Debug\net8.0\UlasimRotaPlanlamaSistemi.Core.dll
+C:\Users\userr\OneDrive\Masaüstü\UlasimRotaPlanlamaSistemi\UlasimRotaPlanlamaSistemi.Core\bin\Debug\net8.0\UlasimRotaPlanlamaSistemi.Core.pdb
+C:\Users\userr\OneDrive\Masaüstü\UlasimRotaPlanlamaSistemi\UlasimRotaPlanlamaSistemi.Core\obj\Debug\net8.0\UlasimRotaPlanlamaSistemi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userr\OneDrive\Masaüstü\UlasimRotaPlanlamaSistemi\UlasimRotaPlanlamaSistemi.Core\obj\Debug\net8.0\UlasimRotaPlanlamaSistemi.Core.AssemblyInfoInputs.cache
+C:\Users\userr\OneDrive\Masaüstü\UlasimRotaPlanlamaSistemi\UlasimRotaPlanlamaSistemi.Core\obj\Debug\net8.0\UlasimRotaPlanlamaSistemi.Core.AssemblyInfo.cs
+C:\Users\userr\OneDrive\Masaüstü\UlasimRotaPlanlamaSistemi\UlasimRotaPlanlamaSistemi.Core\obj\Debug\net8.0\UlasimRotaPlanlamaSistemi.Core.csproj.CoreCompileInputs.cache
+C:\Users\userr\OneDrive\Masaüstü\UlasimRotaPlanlamaSistemi\UlasimRotaPlanlamaSistemi.Core\obj\Debug\net8.0\UlasimRotaPlanlamaSistemi.Core.dll
+C:\Users\userr\OneDrive\Masaüstü\UlasimRotaPlanlamaSistemi\UlasimRotaPlanlamaSistemi.Core\obj\Debug\net8.0\refint\UlasimRotaPlanlamaSistemi.Core.dll
+C:\Users\userr\OneDrive\Masaüstü\UlasimRotaPlanlamaSistemi\UlasimRotaPlanlamaSistemi.Core\obj\Debug\net8.0\UlasimRotaPlanlamaSistemi.Core.pdb
+C:\Users\userr\OneDrive\Masaüstü\UlasimRotaPlanlamaSistemi\UlasimRotaPlanlamaSistemi.Core\obj\Debug\net8.0\ref\UlasimRotaPlanlamaSistemi.Core.dll
+C:\Users\userr\OneDrive\Masaüstü\UlasimRotaPlanlamaSistemi\UlasimRotaPlanlamaSistemi.Core\obj\Debug\net8.0\UlasimRotaPlanlamaSistemi.Core.csproj.AssemblyReference.cache
